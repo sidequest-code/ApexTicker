@@ -60,7 +60,7 @@ Ensure you have the following installed on your system:
 
 ### 1. Clone the Repository
 ```
-git clone [https://github.com/sidequest-code/ApexTicker.git](https://github.com/sidequest-code/ApexTicker.git)
+git clone https://github.com/sidequest-code/ApexTicker.git
 
 ```
  **Navigate into the project directory**:
