@@ -65,18 +65,18 @@ cd ApexTicker
 ```
 ### 2. Backend Setup
 
-1. Open a terminal and navigate to the `backend`directory:  
+* Open a terminal and navigate to the `backend`directory:  
 ```
 cd backend
 ```
 
-3. Install dependencies:
+* Install dependencies:
    
 ```
 npm install
 ```
 
-5. Start the Node server:
+* Start the Node server:
    
 ```
 node server.js
@@ -86,25 +86,25 @@ node server.js
 
 ### 3. Frontend Setup
 
-1. Open a second terminal tab and navigate to the `frontend` directory:
+* Open a second terminal tab and navigate to the `frontend` directory:
    
 ```
 cd frontend
 ```
 
-2. Install dependencies:
+* Install dependencies:
    
 ```
 npm install
 ```
 
-3. Start the Vite dev server:
+* Start the Vite dev server:
    
 ```
 npm run dev
 ```
 
-4. Open http://localhost:5173 in your browser to view the active dashboard.
+* Open http://localhost:5173 in your browser to view the active dashboard.
 
 ```
 ```
