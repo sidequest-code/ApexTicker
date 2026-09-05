@@ -30,7 +30,7 @@
 ---
 
 ## 📁 Project Structure
-
+```text
 apex-ticker/
 ├── backend/
 │   ├── stocks.db         
