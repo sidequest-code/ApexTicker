@@ -108,6 +108,7 @@ npm run dev
 
 ```
 ```
+---
 ## 📡 API Endpoints
 
 | Endpoint | Method | Description | Response Payload |
