@@ -65,7 +65,7 @@ git clone https://github.com/sidequest-code/ApexTicker.git
 ```
  **Navigate into the project directory**:
 ```
-    cd ApexTicker
+cd ApexTicker
 ```
 ### 2. Backend Setup
 
