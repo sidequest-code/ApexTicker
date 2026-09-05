@@ -11,12 +11,12 @@
 
 ## 🚀 Key Features
 
-* Real-Time Price Simulation:** Live backend feed pushing tick and volume updates every 5 seconds.
-* Baseline Delta Tracking:** Custom baseline engine using `localStorage` to compute dynamic percentage shifts ($\Delta$) on demand.
-* Dynamic Flash Indicators:** Visual CSS flash animations highlighting upward (green glow) and downward (red glow) price updates in real time.
-* Inline Sparklines:** Visual price history trends rendered per ticker using `Recharts`.
-* Market Breadth Banner:** High-level metrics bar displaying Top Gainer, Top Loser, and overall market sentiment (Up vs. Down balance).
-* Instant Search:** Real-time client-side filter to isolate target tickers instantly.
+* Real-Time Price Simulation: Live backend feed pushing tick and volume updates every 5 seconds.
+* Baseline Delta Tracking: Custom baseline engine using `localStorage` to compute dynamic percentage shifts ($\Delta$) on demand.
+* Dynamic Flash Indicators: Visual CSS flash animations highlighting upward (green glow) and downward (red glow) price updates in real time.
+* Inline Sparklines: Visual price history trends rendered per ticker using `Recharts`.
+* Market Breadth Banner: High-level metrics bar displaying Top Gainer, Top Loser, and overall market sentiment (Up vs. Down balance).
+* Instant Search: Real-time client-side filter to isolate target tickers instantly.
 
 ---
 
