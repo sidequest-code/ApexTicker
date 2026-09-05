@@ -30,7 +30,7 @@
 ---
 
 ## 📁 Project Structure
-```text
+```
 apex-ticker/
 ├── backend/
 │   ├── stocks.db         
@@ -43,7 +43,7 @@ apex-ticker/
     │   └── index.css      
     ├── index.html
     └── package.json
-
+```
 ---
 
 ## 🏁 Quickstart & Setup
@@ -59,29 +59,29 @@ Ensure you have the following installed on your system:
 ---
 
 ### 1. Clone the Repository
-
+```
 git clone [https://github.com/sidequest-code/ApexTicker.git](https://github.com/sidequest-code/ApexTicker.git)
 cd ApexTicker
-
+```
 ### 2. Backend Setup
 
 1. Open a terminal and navigate to the `backend`directory:
-cd backend
+```cd backend```
 2. Install dependencies:
-npm install
+```npm install```
 3. Start the Node server:
-node server.js
+```node server.js```
 
 * **The server will start at http://localhost:5000.**
 
 ### 3. Frontend Setup
 
 1. Open a second terminal tab and navigate to the `frontend` directory:
-cd frontend
+```cd frontend```
 2. Install dependencies:
-npm install
+```npm install```
 3. Start the Vite dev server:
-npm run dev
+```npm run dev```
 4. Open http://localhost:5173 in your browser to view the active dashboard.
 
 
