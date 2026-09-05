@@ -33,14 +33,14 @@
 
 apex-ticker/
 ├── backend/
-│   ├── stocks.db          # SQLite database storage
-│   ├── server.js          # Express server & live tick simulation loop
+│   ├── stocks.db         
+│   ├── server.js         
 │   └── package.json
 └── frontend/
     ├── src/
-    │   ├── App.jsx        # Main ApexTicker dashboard core
-    │   ├── main.jsx       # React DOM entry point
-    │   └── index.css      # Custom styling & animation keyframes
+    │   ├── App.jsx        
+    │   ├── main.jsx      
+    │   └── index.css      
     ├── index.html
     └── package.json
 
@@ -65,17 +65,18 @@ cd ApexTicker
 
 ### 2. Backend Setup
 
-1. Open a terminal and navigate to the **backend** directory:
+1. Open a terminal and navigate to the `backend`directory:
 cd backend
 2. Install dependencies:
 npm install
 3. Start the Node server:
 node server.js
-*** The server will start at http://localhost:5000.***
+
+* **The server will start at http://localhost:5000.**
 
 ### 3. Frontend Setup
 
-1. Open a second terminal tab and navigate to the **frontend** directory:
+1. Open a second terminal tab and navigate to the `frontend` directory:
 cd frontend
 2. Install dependencies:
 npm install
